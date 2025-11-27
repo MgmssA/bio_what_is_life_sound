@@ -12,10 +12,12 @@
 
 # Player {.unnumbered}
 
-<audio controls style="width: 100%;">
+<!-- <audio controls style="width: 100%;">
     <source src="audio/Kennzeichen Des Lebens.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
-</audio>
+</audio> -->
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=464949499/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thermodyne.bandcamp.com/track/kennzeichen-des-lebens">Kennzeichen Des Lebens by Thermodyne</a></iframe>
 
 # Lyrics {.unnumbered}
 
