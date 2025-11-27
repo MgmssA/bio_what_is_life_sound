@@ -1,0 +1,23 @@
+---
+title: |
+    <p>![](style/mgmss_symbol_color.png){width=40px}</p>
+    Kennzeichen des Lebens
+subtitle: 'Warum lebt etwas und etwas anderes nicht?<br><small>Hörbuch</small>'
+date: 2100-10-10 
+date-modified: 2100-10-10
+author: Călin Aurel Drăgan
+abstract: 'Die Biologie beschäftigt sich mit einer der komplexesten Organisationsformen von Materie: Leben. Deswegen verdienst Du die Geschichte dazu, zum Hören.'
+# bibliography: references.bib
+format: 
+    biodoc-html:
+        include-in-header: _includes/_in_header.html
+        # include-after-body: _includes/_after_body.html
+        embed-resources: false
+        self-contained-math: false
+has-fontawesome: false
+has-math: false
+has-rating: false
+show-rating: false
+# filters:
+#   - highlight-text
+---

@@ -1,0 +1,101 @@
+{{< include _includes/_front_matter.qmd >}}
+{{< include _includes/_init_fontawesome.qmd >}} 
+{{< include _includes/_katex_macros.qmd >}} 
+{{< include _includes/_r_themes.qmd >}}
+<!-- {{< include _includes/_r_rating_init.qmd >}} -->
+
+<!-- {{< include _level_1.qmd >}} -->
+<!-- {{< include _level_2.qmd >}} -->
+<!-- {{< include _level_3.qmd >}} -->
+
+<!-- {{< include _includes/_r_rating.qmd >}} -->
+
+# Player {.unnumbered}
+
+<audio controls style="width: 100%;">
+    <source src="audio/Kennzeichen Des Lebens.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+# Lyrics {.unnumbered}
+
+### Chorus 1 {.unnumbered}
+
+| Das sind die Kennzeichen des Lebens
+| Das sind die Ziele Deines Strebens
+| Nicht müde werd ich wegen des Hervorhebens
+| Das sind die Spuren des Zeitbebens
+| 
+| Terraforming des Nichtkleinbeigebens
+| Gestaltet Dein Erlebnis des Erlebens
+| Erkennbar im Vibrato des Nachbebens
+| Überkommt das Nein des Wiederstrebens
+
+### Verse 1 {.unnumbered}
+
+| Hau rein Five Guys, Dönnerhaus nimm zwei
+| Verdau die Scheiße zwischen viertel zwei bis drei
+| Mach daraus Moleküle jetzt sind wir dabei
+| Rein in die Blutbahn verteile allerlei
+| 
+| Jetzt komme Sauerstoff in Spiel nach der Völlerei
+| Hacke auf den Zucker und verbrenne es feuerfrei
+| Mach daraus Baustoffe, das Leben kostenfrei
+| Sag mir, dass Du Dich gut fühlst, wie Du, ich auch dabei
+| 
+| Raus mit dem Abfall, raus mit dem CO2,
+| Das Fließgleichgewicht arbeitet in Dir einwandfrei
+| Gut dass Du lebst, sonst warst Du tot und sorgenfrei
+| Die 9 mm für die anderen dabei
+| 
+| Denn die sind außen vor auf der anderen Seite
+| Die Membran umschließt die Zellen von der Außenweite
+| Damit die Kontrolle Dir nicht entgleite
+| Sonst verhalte Dich in die Flucht und suche das Weite
+
+### Chorus 2 {.unnumbered}
+
+| Das sind die Kennzeichen des Lebens
+| Das sind die Ziele Deines Strebens
+| Nicht müde werd ich wegen des Hervorhebens
+| Das sind die Spuren des Zeitbebens
+| 
+| Terraforming des Nichtkleinbeigebens
+| Gestaltet Dein Erlebnis des Erlebens
+| Erkennbar im Vibrato des Nachbebens
+| Überkommt das Nein des Wiederstrebens
+
+### Verse 2 {.unnumbered}
+
+| Ein Teil des Metabolismus das passiert nach drei
+| Katabolismus sprich es aus, akzentfrei
+| Der Anabolismus schließt sich an und ist dabei
+| Du musst ja wachsen Du willst 
+|    *Keine kleine Zelle sein*
+| 
+| Wegen der Reproduktion die muss es auch noch geben
+| Jede kleinste Zelle als auch Du will auch was erleben
+| Die genetische Information frei zum weitergeben
+| Damit Deine Nachkommen sollen leben und was erleben
+| 
+| Wachse, größer, von DNA Verdopplung wir reden
+| Dein Bauplan ist Grund genug für Wachsen und Streben
+| Millionen Basenpaare und nichts wird vergeben
+| Die Selektion wählt aus und angepassteres darf leben 
+| 
+| Die langsame Anpassung die schleicht sich ein über Generationen
+| Wahrend die schnelle wirkt individuell basierend auf Kombinationen
+| Die in Dir innewohnen und starten Expressionen
+| Dein Fähigkeit ist die Deine bei diesen Aktionen
+
+### Chorus 3 {.unnumbered}
+
+| Das sind die Kennzeichen des Lebens
+| Das sind die Ziele Deines Strebens
+| Nicht müde werd ich wegen des Hervorhebens
+| Das sind die Spuren des Zeitbebens
+| 
+| Terraforming des Nichtkleinbeigebens
+| Gestaltet Dein Erlebnis des Erlebens
+| Erkennbar im Vibrato des Nachbebens
+| Überkommt das Nein des Wiederstrebens
